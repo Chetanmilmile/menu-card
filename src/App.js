@@ -1,10 +1,9 @@
-import Resturant from "./components/basics/Resturant";
-
+import Todo from "./components/Todo";
 
 const App = () => {
   return (
     <>
-    <Resturant/>
+    <Todo/>
     </>
   )
 }
